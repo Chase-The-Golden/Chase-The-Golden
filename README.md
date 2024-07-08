@@ -11,7 +11,7 @@
 <!-- Contacts -->
 <h3>Contact Me</h3>
 <p><a href="mailto: ChaseTheGolden@proton.me">E-mail <img style="float:right; width:14px; height:14px;" src="https://cdn.pixabay.com/photo/2012/04/28/19/00/mail-44043_1280.png"></a></p>
-<p><a href="https://www.linkedin.com/in/chasekgolden/" target="_blank">LinkedIn <img style="float:right; width:14px; height:14px;" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png"></a></p>
+<p><a href="https://www.linkedin.com/in/chasethegolden/" target="_blank">LinkedIn <img style="float:right; width:14px; height:14px;" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png"></a></p>
 
 <!--
 - 👋 Hi, I’m @Chase-The-Golden
